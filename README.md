@@ -24,9 +24,6 @@ companies and their contacts to a workbook. Resumable, so a crash costs you noth
 Turns a venture debt fund's screening checklist into something an AI runs the same way every
 time. Reads the financials, computes every ratio, writes the memo.
 
-**[Spendly](https://github.com/Devanshindian/Spendly)**
-An expense tracker I wanted to exist.
-
 ---
 
 ### How I build
